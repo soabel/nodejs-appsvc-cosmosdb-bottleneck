@@ -11,7 +11,7 @@ pool:
 
 variables:
   webAppName: 'loadtestappsoabel'
-  serviceConnection: 'azLoadTestPeruCompras'
+  serviceConnection: 'azLoadTesting'
   azureSubscriptionId: 'e6b90b81-a916-4337-a391-89b509e7fcc3'
   loadTestResource: 'loadtestsoabel'
   loadTestResourceGroup: 'loadtestsoabel'
